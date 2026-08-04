@@ -299,8 +299,6 @@ box-shadow: #0dfd35 0 5px 10px;
     <main class="main-content">
         <div class="container">
             <h1 id="titlep" class="cuadro">Bienvenidos al Ultimo Examen de Electiva Web 1</h1>
-             <img src="Programador-Web-.Net_.jpg" alt="Programador-Web-" width="1050px"; heigt="500px;" class="fondo">
-        </div>
 
             <!-- TARJETA DE INTRODUCCIÓN CON LA CLASE CON MÁS SOMBRA -->
 
